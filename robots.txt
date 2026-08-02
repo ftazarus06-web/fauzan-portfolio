@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://ftazarus06-web.github.io/fauzan-portfolio/sitemap.xml
